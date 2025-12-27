@@ -1,0 +1,1 @@
+- [x] Modify _checkUserDetails in SplashScreen to always navigate to OnboardingScreen instead of checking saved details.
